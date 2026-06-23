@@ -21,46 +21,28 @@ class Solution {
 
         //  optimal approach :
         // using dequeue: double ended queue:
-           int n = nums.length;
-        int[] ans = new int[n - k + 1];
-
-        Deque<Integer> dq = new ArrayDeque<>();
-
-        // Process first window
-        for (int i = 0; i < k; i++) {
-
-            while (!dq.isEmpty() &&
-                   nums[dq.peekLast()] <= nums[i]) {
-                dq.pollLast();
-            }
-
-            dq.offerLast(i);
-        }
-
-        ans[0] = nums[dq.peekFirst()];
-
-        int idx = 1;
-
-        // Process remaining windows
-        for (int i = k; i < n; i++) {
-
-            // Remove indices outside current window
-            while (!dq.isEmpty() &&
-                   dq.peekFirst() <= i - k) {
+        int n = nums.length;
+        int [] ans = new int[n-k+1];
+        Deque <Integer> dq = new ArrayDeque<>();
+        int idx =0 ;
+        for(int i =0 ;i< n ;i++){
+            // Removes all the elements which are out of the window:
+            while(!dq.isEmpty() && dq.peekFirst() <= i-k){
                 dq.pollFirst();
             }
 
-            // Remove smaller elements
-            while (!dq.isEmpty() &&
-                   nums[dq.peekLast()] <= nums[i]) {
+            while(!dq.isEmpty() && nums[dq.peekLast()]<nums[i]){
                 dq.pollLast();
             }
 
             dq.offerLast(i);
 
-            ans[idx++] = nums[dq.peekFirst()];
+            if(i>=k-1){
+                ans[idx++] = nums[dq.peekFirst()];
+            }
+       
         }
-
-        return ans;
+        return ans ;
     }
+    
 }
