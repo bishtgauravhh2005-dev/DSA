@@ -1,10 +1,36 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
-        int p = part.length();
-        while(s.contains(part)){
-            int idx = s.indexOf(part);
-            s = s.substring(0,idx) + s.substring(idx + p);
+        // Brute force:
+
+
+        // int p = part.length();
+        // while(s.contains(part)){
+        //     int idx = s.indexOf(part);
+        //     s = s.substring(0,idx) + s.substring(idx + p);
+        // }
+        // return s;
+
+        //Optimal solution or interview represent approach :
+
+        StringBuilder sb = new StringBuilder();
+        int m = part.length();
+
+        for(char ch : s.toCharArray()){
+            sb.append(ch);
+            if(sb.length()>=m){
+                boolean match = true;
+                for(int i =0 ;i<m ;i++){
+                    if(sb.charAt(sb.length() - m + i) != part.charAt(i)){
+                        match = false;
+                        break;
+                    }
+                }
+                if(match){
+                    sb.delete(sb.length()-m , sb.length());
+                }
+            }
         }
-        return s;
+        return sb.toString();
+        
     }
 }
