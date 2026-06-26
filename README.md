@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0014-longest-common-prefix) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
