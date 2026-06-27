@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -82,5 +86,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1392-longest-happy-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
