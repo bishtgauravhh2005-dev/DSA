@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -96,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
