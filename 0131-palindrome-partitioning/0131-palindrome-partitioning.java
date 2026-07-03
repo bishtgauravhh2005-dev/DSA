@@ -1,49 +1,36 @@
 class Solution {
-
-    public List<List<String>> partition(String s) {
-
-        List<List<String>> ans = new ArrayList<>();
-
-        backtrack(0, s, new ArrayList<>(), ans);
-
-        return ans;
-    }
-
-    private void backtrack(int index, String s,
-                           List<String> current,
-                           List<List<String>> ans) {
-
-        // Base Case
-        if (index == s.length()) {
-            ans.add(new ArrayList<>(current));
+    List<List<String>> ans = new ArrayList<>();
+    public void palindrome_fun(String s,List<String> part){
+        if (s.length() == 0){
+            ans.add(new ArrayList(part));
             return;
         }
-
-        // Try every possible substring
-        for (int end = index; end < s.length(); end++) {
-
-            if (isPalindrome(s, index, end)) {
-
-                current.add(s.substring(index, end + 1));
-
-                backtrack(end + 1, s, current, ans);
-
-                current.remove(current.size() - 1);
+        for(int i=0 ;i<s.length() ;i++){
+            String sub_part = s.substring(0,i+1);
+            if(ispalindrome(sub_part)){
+                part.add(sub_part);
+                palindrome_fun(s.substring(i+1), part);
+                part.remove(part.size()-1);
             }
+
         }
     }
-
-    private boolean isPalindrome(String s, int left, int right) {
-
-        while (left < right) {
-
-            if (s.charAt(left) != s.charAt(right))
+    public boolean ispalindrome(String str){
+        int st = 0 ;
+        int end = str.length()-1;
+        while(st<end){
+            if(str.charAt(st) != str.charAt(end)){
                 return false;
-
-            left++;
-            right--;
+            }
+            st++;
+            end--;
         }
-
         return true;
+    }
+    public List<List<String>> partition(String s) {
+        int n = s.length();
+        List<String> part = new ArrayList<>();
+        palindrome_fun(s, part);
+        return ans;
     }
 }
