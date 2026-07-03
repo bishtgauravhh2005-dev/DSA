@@ -18,7 +18,8 @@ class Solution {
         solve(index+1 , candidate , target , curr);
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        solve(0 , candidates, target , (new ArrayList<>()));
+        List<Integer> curr = new ArrayList<>();
+        solve(0 , candidates, target , (curr));
         return ans;
     }
 }
