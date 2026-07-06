@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
