@@ -11,24 +11,32 @@
 // }
 
 class Solution {
-    public ListNode middleNode(ListNode head) {
-        int e = 0;
-        ListNode temp = head; 
-        while(temp!=null){
-            e++;
-            temp = temp.next;
-        }
-        int m = 0 +(e-0)/2;
-        ListNode t = head; 
-        int i =0;
-        while(t!=null){
-            if(i==m){
-                break;
-            }
-            i++;
-            t=t.next;
-        }
+     public ListNode middleNode(ListNode head) {
+    //     int e = 0;
+    //     ListNode temp = head; 
+    //     while(temp!=null){
+    //         e++;
+    //         temp = temp.next;
+    //     }
+    //     int m = 0 +(e-0)/2;
+    //     ListNode t = head; 
+    //     int i =0;
+    //     while(t!=null){
+    //         if(i==m){
+    //             break;
+    //         }
+    //         i++;
+    //         t=t.next;
+    //     }
         
-        return t;
+    //     return t;
+    // }
+    ListNode slow = head;
+    ListNode fast = head;
+    while(fast!=null && fast.next!=null){
+        fast = fast.next.next;
+        slow = slow.next;
+    }
+    return slow;
     }
 }
