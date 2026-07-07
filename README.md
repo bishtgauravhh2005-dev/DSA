@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Queue
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,4 +153,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
