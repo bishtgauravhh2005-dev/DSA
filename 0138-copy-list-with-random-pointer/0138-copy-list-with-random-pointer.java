@@ -15,18 +15,16 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        if(head == null){
-            return head;
-        }
+        if(head == null) return head;
         Node newhead = new Node(head.val);
         Node old = head.next;
         Node newh = newhead;
         HashMap<Node , Node> m = new HashMap<>();
         m.put(head, newhead);
         while(old !=null){
-            Node nnext = new Node(old.val);
-            m.put(old,nnext);
-            newh.next = nnext;
+            Node next = new Node(old.val);
+            m.put(old,next);
+            newh.next = next;
             newh = newh.next;
             old = old.next;
         }
