@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0496-next-greater-element-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Stack
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
