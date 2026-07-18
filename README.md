@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
