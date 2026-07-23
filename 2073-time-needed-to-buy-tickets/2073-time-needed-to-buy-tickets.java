@@ -24,6 +24,7 @@ class Solution {
 
             if(k == f && tickets[f] == 0) return timeNeeded;
             if(tickets[f] != 0) q.offer(f);
+
         }
         return timeNeeded;
     }
