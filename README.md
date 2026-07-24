@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Math
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
