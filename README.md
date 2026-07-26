@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
+| [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Depth-First Search
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Merge Sort
 |  |
