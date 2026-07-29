@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -266,11 +268,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
