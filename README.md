@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0572-subtree-of-another-tree) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0572-subtree-of-another-tree) |
