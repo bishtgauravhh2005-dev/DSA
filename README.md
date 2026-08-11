@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
 | [3310-remove-methods-from-project](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -395,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## DP on Trees
 |  |
 | ------- |
