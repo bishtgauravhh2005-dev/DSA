@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 ## Stack
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Monotonic Stack
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
