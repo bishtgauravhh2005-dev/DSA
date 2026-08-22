@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0002-add-two-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
 | ------- |
