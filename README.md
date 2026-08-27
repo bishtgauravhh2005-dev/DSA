@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
 | [3310-remove-methods-from-project](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/3310-remove-methods-from-project) |
 ## Data Stream
 |  |
@@ -506,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
