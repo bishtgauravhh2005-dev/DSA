@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 | [1392-longest-happy-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1927-sum-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0002-add-two-numbers) |
+| [1927-sum-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Design
 |  |
@@ -540,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
