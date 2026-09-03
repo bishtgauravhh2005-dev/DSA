@@ -34,3 +34,5 @@ class Solution {
     return c;
     }
 }
+// TC = O(n × m)
+// SC = O(n × m)
