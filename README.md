@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
