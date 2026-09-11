@@ -1,4 +1,7 @@
 class Solution {
+    // tc : (V+E)
+    // sc : (V+E)
+    // tarjans algorithm 
     int time = 0 ;
     public void dfs(int u , ArrayList<Integer> [] graph , int parU , int dt[] , int [] low , List<List<Integer>>ans){
         dt[u] = low[u] = ++time;
