@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
