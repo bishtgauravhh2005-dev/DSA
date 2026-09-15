@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -627,4 +629,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Knapsack Problem
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
