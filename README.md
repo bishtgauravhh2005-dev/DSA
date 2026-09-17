@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -632,9 +635,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
