@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
