@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -222,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1927-sum-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1927-sum-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
