@@ -1,4 +1,5 @@
 class Solution {
+    // Time: O(n×C) C denotes to a catalan number.
     public void solve(List<String> ans ,StringBuilder sb , int n, int open , int close  ){
         if(sb.length() == 2*n){
             ans.add(sb.toString());
