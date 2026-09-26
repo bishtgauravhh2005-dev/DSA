@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0076-minimum-window-substring) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0040-combination-sum-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -681,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
