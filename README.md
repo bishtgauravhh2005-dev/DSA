@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0072-edit-distance) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
@@ -696,4 +698,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
