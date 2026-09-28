@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0090-subsets-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
