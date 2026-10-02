@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1463-cherry-pickup-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1463-cherry-pickup-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
+| [1463-cherry-pickup-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1463-cherry-pickup-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Depth-First Search
 |  |
