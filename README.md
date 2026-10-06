@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
+| [0664-strange-printer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0664-strange-printer) |
 | [1092-shortest-common-supersequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1392-longest-happy-prefix) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
+| [0664-strange-printer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0664-strange-printer) |
 | [0741-cherry-pickup](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0931-minimum-falling-path-sum) |
