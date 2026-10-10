@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0664-strange-printer) |
 | [1092-shortest-common-supersequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0542-01-matrix) |
 | [0664-strange-printer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0664-strange-printer) |
 | [0741-cherry-pickup](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0741-cherry-pickup) |
