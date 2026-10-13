@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1470-shuffle-the-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
