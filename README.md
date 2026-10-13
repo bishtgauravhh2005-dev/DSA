@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1929-concatenation-of-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Trie
