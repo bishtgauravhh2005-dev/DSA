@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -742,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0175-combine-two-tables) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
