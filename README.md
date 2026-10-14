@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1463-cherry-pickup-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1470-shuffle-the-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0912-sort-an-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
