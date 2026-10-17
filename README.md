@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0096-unique-binary-search-trees) |
