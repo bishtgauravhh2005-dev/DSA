@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
