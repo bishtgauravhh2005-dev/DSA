@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0020-valid-parentheses) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0070-climbing-stairs) |
