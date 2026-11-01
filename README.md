@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0376-wiggle-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
