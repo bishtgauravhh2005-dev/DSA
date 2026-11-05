@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0376-wiggle-subsequence) |
+| [0392-is-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0509-fibonacci-number) |
