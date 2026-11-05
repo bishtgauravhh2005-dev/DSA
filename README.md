@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
