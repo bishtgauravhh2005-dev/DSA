@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0238-product-of-array-except-self) |
 ## Z Algorithm
 |  |
