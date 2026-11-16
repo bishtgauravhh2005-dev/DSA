@@ -848,4 +848,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
