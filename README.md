@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0040-combination-sum-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0076-minimum-window-substring) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0174-dungeon-game) |
