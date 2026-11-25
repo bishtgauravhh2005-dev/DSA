@@ -35,16 +35,28 @@ class Solution {
     
     // optimal approach using hashmap and string:
 
-    HashMap <String , List<String>> helper = new HashMap<>();
+    // HashMap <String , List<String>> helper = new HashMap<>();
+    // for(String str : strs){
+    //     char ch[] = str.toCharArray();
+    //     Arrays.sort(ch);
+    //     String k = new String(ch);
+    //     if(!helper.containsKey(k)){
+    //         helper.put(k ,new ArrayList<>());
+    //     }
+    //     helper.get(k).add(str);
+    //  }
+    // return new ArrayList<>(helper.values());
+
+    HashMap<String ,List<String>> map = new HashMap<>();
     for(String str : strs){
         char ch[] = str.toCharArray();
         Arrays.sort(ch);
         String k = new String(ch);
-        if(!helper.containsKey(k)){
-            helper.put(k ,new ArrayList<>());
+        if(!map.containsKey(k)){  
+            map.put(k , new ArrayList<>());
         }
-        helper.get(k).add(str);
-     }
-    return new ArrayList<>(helper.values());
+        map.get(k).add(str);
+    }
+    return new ArrayList<>(map.values());
    }
 }
