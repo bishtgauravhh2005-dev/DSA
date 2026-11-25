@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/bishtgauravhh2005-dev/DSA/tree/master/0200-number-of-islands) |
